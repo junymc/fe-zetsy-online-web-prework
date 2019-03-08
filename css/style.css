@@ -2,7 +2,10 @@
 
 /* link the web font used for the level 1 heading here */
 /*<link herf="fonts/Baskerville.ttc" rel="stylesheet" type="text/css">*/
-
+@@font-face {
+	font-family: "Baskerville";
+	src: url(../fonts/Baskerville.ttc);
+}
 /*////////// Global Styles //////////*/
 
 body {
