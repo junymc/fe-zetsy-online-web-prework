@@ -49,3 +49,35 @@ p {
 #featured img {
 	border: 5px rgb(152, 173, 166) solid;
 }
+
+div.wrapper header a {
+	color: rbg(152, 173, 166);
+	text-decoration: none;
+}
+
+div.wrapper header a:hover {
+	color: rgb(111, 127, 122);
+}
+
+#featured a {
+	color: #1783bb;
+	text-decoration: none;
+}
+
+#featured a:hover {
+	text-decoration: underline;
+}
+
+#press img {
+	border: 5px #ccc solid;
+	padding: 1px;
+}
+
+#press img:hover {
+	border: 5px rgb(111, 127, 122) solid;
+}
+
+footer {
+	text-align: right;
+	background: #fff;
+}
