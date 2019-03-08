@@ -53,12 +53,12 @@ p {
 	border: 5px rgb(152, 173, 166) solid;
 }
 
-div.wrapper header a {
+header a {
 	color: rbg(152, 173, 166);
 	text-decoration: none;
 }
 
-div.wrapper header a:hover {
+header a:hover {
 	color: rgb(111, 127, 122);
 }
 
